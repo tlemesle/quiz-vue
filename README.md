@@ -1,5 +1,8 @@
 # quiz - FreeCodeCamp.org Vue tutorial
-https://www.youtube.com/watch?v=4deVCNJq3qc
+
+App à tester sur https://tlemesle.github.io/quiz-vue/
+
+Video : https://www.youtube.com/watch?v=4deVCNJq3qc
 ## Project setup
 ```
 npm install
